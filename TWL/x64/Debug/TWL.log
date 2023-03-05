@@ -1,0 +1,212 @@
+﻿  Bob.cpp
+  DetectCollisions.cpp
+D:\Study_Perso\Udemy\SFML\TWL\TWL\DetectCollisions.cpp(12,16): warning C4244: '=' : conversion de 'const int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\DetectCollisions.cpp(13,17): warning C4244: '=' : conversion de 'const int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\DetectCollisions.cpp(31,81): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\DetectCollisions.cpp(31,46): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\DetectCollisions.cpp(35,44): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+D:\Study_Perso\Udemy\SFML\TWL\TWL\DetectCollisions.cpp(43,19): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\DetectCollisions.cpp(44,18): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\DetectCollisions.cpp(53,47): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+  Draw.cpp
+  Engine.cpp
+D:\Study_Perso\Udemy\SFML\TWL\TWL\Engine.cpp(8,44): warning C4244: '=' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\Engine.cpp(9,44): warning C4244: '=' : conversion de 'unsigned int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\Engine.cpp(11,52): warning C4244: 'argument' : conversion de 'T' en 'unsigned int', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\Engine.cpp(11,38): warning C4244: 'argument' : conversion de 'T' en 'unsigned int', perte possible de données
+          with
+          [
+              T=float
+          ]
+  HUD.cpp
+D:\Study_Perso\Udemy\SFML\TWL\TWL\HUD.cpp(29,38): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+  Input.cpp
+  LevelManager.cpp
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LevelManager.cpp(67,28): warning C4267: '=' : conversion de 'size_t' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LevelManager.cpp(111,69): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LevelManager.cpp(111,54): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LevelManager.cpp(112,83): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LevelManager.cpp(112,68): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LevelManager.cpp(113,97): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LevelManager.cpp(113,68): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LevelManager.cpp(114,83): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LevelManager.cpp(114,54): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LevelManager.cpp(119,58): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LevelManager.cpp(120,66): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LevelManager.cpp(120,53): warning C4244: 'argument' : conversion de 'const int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LevelManager.cpp(121,74): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LevelManager.cpp(121,53): warning C4244: 'argument' : conversion de 'const int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LevelManager.cpp(122,66): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+  LoadLevel.cpp
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LoadLevel.cpp(25,42): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+D:\Study_Perso\Udemy\SFML\TWL\TWL\LoadLevel.cpp(26,39): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+  Particle.cpp
+  ParticleSystem.cpp
+D:\Study_Perso\Udemy\SFML\TWL\TWL\ParticleSystem.cpp(16,15): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+D:\Study_Perso\Udemy\SFML\TWL\TWL\ParticleSystem.cpp(17,15): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  PlayableCharacter.cpp
+D:\Study_Perso\Udemy\SFML\TWL\TWL\PlayableCharacter.cpp(62,21): warning C4244: '=' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\PlayableCharacter.cpp(68,22): warning C4244: '=' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\PlayableCharacter.cpp(70,28): warning C4244: '=' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\PlayableCharacter.cpp(74,21): warning C4244: '=' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\PlayableCharacter.cpp(76,27): warning C4244: '=' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+  PopulateEmitters.cpp
+D:\Study_Perso\Udemy\SFML\TWL\TWL\PopulateEmitters.cpp(8,22): warning C4858: abandon de la valeur retournée : This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements.
+D:\Study_Perso\Udemy\SFML\TWL\TWL\PopulateEmitters.cpp(22,5): warning C4244: 'argument' : conversion de 'const int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\PopulateEmitters.cpp(21,5): warning C4244: 'argument' : conversion de 'const int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\PopulateEmitters.cpp(20,7): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\PopulateEmitters.cpp(19,21): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\PopulateEmitters.cpp(24,56): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Study_Perso\Udemy\SFML\TWL\TWL\PopulateEmitters.cpp(24,41): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+  SoundManager.cpp
+  TextureHolder.cpp
+  main.cpp
+  Thomas.cpp
+D:\Study_Perso\Udemy\SFML\TWL\TWL\Thomas.cpp(10,22): warning C4305: '=' : troncation de 'double' à 'float'
+  Update.cpp
+  Génération de code en cours...
+  TWL.vcxproj -> D:\Study_Perso\Udemy\SFML\TWL\x64\Debug\TWL.exe
